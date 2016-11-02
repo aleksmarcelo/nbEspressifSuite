@@ -7,7 +7,7 @@ Plugins:
 > 1. FlashPlugin : wrapper to call "make flash".
 > 2. TBD
 
-
+![Image of Plugin](https://github.com/aleksmarcelo/nbEspressifSuite/plugin.png)
 
 @AleksMarcelo
 
