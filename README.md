@@ -1,6 +1,6 @@
 ## NbEspressifSuite
 
-The beggining of a tools suite to hel the espressif code development using Netbeans.
+The must beggining of a tools suite to help the espressif code development using Netbeans.
 
 
 Plugins:
